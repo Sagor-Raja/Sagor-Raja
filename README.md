@@ -28,7 +28,7 @@
 ## Academic Background:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s900-c-k-c0x00ffffff-no-rj"/>](https://www.onebitcode.com/)
-**Full Stack Developer** \
+**Softwore Developer** \
 [**One Bit Code**](https://www.onebitcode.com/) • In progress \
 Skills: `HTML5` `CSS3` `Firebase` `Python` `MYSQL` `Kotlin` `XML` `Jetpack Compose`  `Git` `GitHub` 
 
