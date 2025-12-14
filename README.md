@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm MD. A.H SAGOR</h1>
-<h3 align="center">A passionate softwore developer from Bangladesh</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+MD. A.H SAGOR;I'm+Softwore+Developer)](https://git.io/typing-svg)
+
+<br>
+
+## Language and Tools
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagor-raja&label=Profile%20views&color=0e75b6&style=flat" alt="sagor-raja" /> </p>
 
