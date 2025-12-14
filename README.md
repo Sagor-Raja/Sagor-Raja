@@ -12,6 +12,7 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=py"/>](https://developer.mozilla.org/en-US/docs/Web/Python)
+    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=django"/>]([https://developer.mozilla.org/en-US/docs/Web/Python](https://www.djangoproject.com/))
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=kotlin"/>](https://nodejs.org/en)
 
 
